@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Lease or Rent Home Inc.</string>
+    <string name="enter">Enter</string>
+
+    <string name="apartmentAddress1">25 Richmond St East</string>
+    <string name="apartmentPrice1">$2,100</string>
+    <string name="apartmentAddress2">35 Walmer</string>
+    <string name="apartmentPrice2">$1,618</string>
+    <string name="apartmentAddress3">62 Ulster St</string>
+    <string name="apartmentPrice3">$750</string>
+
+    <string name="detachedAddress1">1094 College St</string>
+    <string name="detachedPrice1">$1,750</string>
+    <string name="detachedAddress2">33 Wood St</string>
+    <string name="detachedPrice2">$1,650</string>
+    <string name="detachedAddress3">484 Spadina Ave</string>
+    <string name="detachedPrice3">$1,900</string>
+
+    <string name="semiAddress1">10 York St</string>
+    <string name="semiPrice1">$1,650</string>
+    <string name="semiAddress2">377 Madison Avenue</string>
+    <string name="semiPrice2">$2,350</string>
+    <string name="semiAddress3">92 Spencer Avenue</string>
+    <string name="semiPrice3">$1,500</string>
+
+    <string name="townAddress1">1101 Bay Street</string>
+    <string name="townPrice1">$2,395</string>
+    <string name="townAddress2">763 Woodbine Ave</string>
+    <string name="townPrice2">$1,850</string>
+    <string name="townAddress3">100 Cosburn Ave</string>
+    <string name="townPrice3">$2,064</string>
+
+    <string name="condoAddress1">19 Bartlett Ave</string>
+    <string name="condoPrice1">$1,450</string>
+    <string name="condoAddress2">377 Madison Ave</string>
+    <string name="condoPrice2">$2,350</string>
+    <string name="condoAddress3">75 Thorncliffe Park Dr.</string>
+    <string name="condoPrice3">$1,649</string>
+</resources>

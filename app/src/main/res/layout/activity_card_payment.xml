@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.AshrutSharma_COMP304Sec004_Lab2_Ex1.CardPayment">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:fontFamily="@font/raleway"
+        android:text="Payment Screen"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:textStyle="normal" />
+
+    <EditText
+        android:id="@+id/txtName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="@font/raleway"
+        android:hint="Enter Full Name"
+        android:inputType="textPersonName"
+        android:textAlignment="center"
+        android:textSize="24sp" />
+
+    <EditText
+        android:id="@+id/txtDebitandCredit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="@font/raleway"
+        android:hint="Credit/Debit Card Number"
+        android:inputType="number"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        tools:visibility="visible" />
+
+    <EditText
+        android:id="@+id/ExpDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="@font/raleway"
+        android:hint="Expiry Date MMYY"
+        android:inputType="number"
+        android:textAlignment="center"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/btnProceed"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:fontFamily="@font/raleway"
+        android:text="Make Payment" />
+</LinearLayout>
